@@ -1,0 +1,19 @@
+button {
+  background-color: #daf6fd;
+  border-radius: 5em;
+  border-color: #ffa6f6;
+  color: #25292b;
+  height: 2rem;
+  width: 7rem;
+}
+
+textarea {
+  resize: none;
+  width: 50em;
+  height: 20em;
+}
+
+button:hover {
+  color: azure;
+  background-color: darkorchid;
+}
